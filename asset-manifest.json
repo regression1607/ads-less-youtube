@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ads-less-youtube/static/css/main.b5e3b01c.css",
+    "main.js": "/ads-less-youtube/static/js/main.aec0258d.js",
+    "index.html": "/ads-less-youtube/index.html",
+    "main.b5e3b01c.css.map": "/ads-less-youtube/static/css/main.b5e3b01c.css.map",
+    "main.aec0258d.js.map": "/ads-less-youtube/static/js/main.aec0258d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5e3b01c.css",
+    "static/js/main.aec0258d.js"
+  ]
+}
